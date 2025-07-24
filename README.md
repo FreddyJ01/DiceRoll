@@ -1,4 +1,4 @@
-# DiceRoll
+# :game_die: DiceRoll
 
 A simple console application that allows users to roll dice and receive messages depending on their score.
 
